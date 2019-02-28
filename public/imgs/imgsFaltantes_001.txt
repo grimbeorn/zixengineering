@@ -1,0 +1,38 @@
+RESIDENCIAL
+
+04. casa tequesquitengo
+
+08. vias suas viñas abajo
+09. vias suas viñas arriba
+
+10. optimización de viviendas de AlAndalus
+
+
+
+INDUSTRIAL
+
+06. plataforma de equipo eléctrico
+
+07. rack de distribución de instalaciones
+
+09. cimentación de silos II de cemento
+
+10. losas de tránsito y de cubierta
+
+
+
+INFRAESTRUCTURA
+
+02. tanque de agu Veracruz
+
+03. tanque agua Jilotepec
+
+04. muro de tierra armada
+
+
+
+R+D
+
+01. wing-box ribs optimization
+
+02. garage door opener
